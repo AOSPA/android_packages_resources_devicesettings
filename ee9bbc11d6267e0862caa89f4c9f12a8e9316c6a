@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f7e74e65_bbab0402",
+        "filename": "res/values-pt-rBR/custom_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 185,
+      "author": {
+        "id": 1000463
+      },
+      "writtenOn": "2023-04-21T12:21:06Z",
+      "side": 1,
+      "message": "u sure it also increases device performance?",
+      "revId": "ee9bbc11d6267e0862caa89f4c9f12a8e9316c6a",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "70a57da4_0bd11620",
+        "filename": "res/values-pt-rBR/custom_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 185,
+      "author": {
+        "id": 1000463
+      },
+      "writtenOn": "2023-04-21T12:21:06Z",
+      "side": 1,
+      "message": "u sure it also increases device performance?",
+      "revId": "ee9bbc11d6267e0862caa89f4c9f12a8e9316c6a",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2ead25b9_b109aac9",
+        "filename": "res/values-pt-rBR/custom_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 200,
+      "author": {
+        "id": 1000463
+      },
+      "writtenOn": "2023-04-21T12:21:06Z",
+      "side": 1,
+      "message": "I dislike the usage of \"HBM\" and \"CABC\" to refer to features, use the full name instaed.",
+      "revId": "ee9bbc11d6267e0862caa89f4c9f12a8e9316c6a",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9240be69_e186688b",
+        "filename": "res/values-pt-rBR/custom_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 203,
+      "author": {
+        "id": 1000463
+      },
+      "writtenOn": "2023-04-21T12:21:06Z",
+      "side": 1,
+      "message": "Same here. People might don\u0027t know what HBM is. use the full name",
+      "revId": "ee9bbc11d6267e0862caa89f4c9f12a8e9316c6a",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f7f71750_512fdcdc",
+        "filename": "res/values-pt-rBR/custom_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 210,
+      "author": {
+        "id": 1000463
+      },
+      "writtenOn": "2023-04-21T12:21:06Z",
+      "side": 1,
+      "message": "Same here. People might don\u0027t know what CABC is. use the full name",
+      "revId": "ee9bbc11d6267e0862caa89f4c9f12a8e9316c6a",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
