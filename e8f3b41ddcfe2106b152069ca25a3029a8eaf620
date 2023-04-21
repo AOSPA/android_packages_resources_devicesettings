@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fe1ab542_526121b5",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1000463
+      },
+      "writtenOn": "2023-04-21T12:16:38Z",
+      "side": 1,
+      "message": "U sure about this?",
+      "revId": "e8f3b41ddcfe2106b152069ca25a3029a8eaf620",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "22fb1d5a_3645d364",
+        "filename": "res/values/custom_strings.xml",
+        "patchSetId": 3
+      },
+      "lineNbr": 274,
+      "author": {
+        "id": 1000463
+      },
+      "writtenOn": "2023-04-21T12:16:38Z",
+      "side": 1,
+      "message": "You sure about this?",
+      "revId": "e8f3b41ddcfe2106b152069ca25a3029a8eaf620",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
